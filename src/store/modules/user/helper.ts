@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
-      name: 'ChenZhaoYu',
-      description: 'Star on <a href="https://github.com/Chanzhaoyu/chatgpt-bot" class="text-blue-500" target="_blank" >GitHub</a>',
+      avatar: 'https://worldgz.photo.store.qq.com/psc?/worldlogo/O0cFsaTfOlqjIAnYAvw8WjVg226xOzHJrHqLHhAR.XxFOHBZQ.qf*ryetBTdBtm6BUodbd4wKDWfBOdRwEnFuB628N3WATWNamubswMlm80!/m&bo=gAKAAoACgAIRHyg!',
+      name: 'QQ群：741785402',
+      description: 'Star on <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=votE2iRETpMV_KcLTqCBw9oqM22S4zMb&authKey=6%2FljpbebmrzPdOXSmIuOdxiHWiqabYY1wYzcRzu31Kwz7N7EG1wIdeJnMlBwYoMH&noverify=0&group_code=741785402" class="text-blue-500" target="_blank" >QQ群：741785402</a>',
     },
   }
 }
