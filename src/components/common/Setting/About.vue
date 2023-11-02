@@ -46,18 +46,18 @@ onMounted(() => {
       </h2>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
         <p>
-          QQ群：741785402
+          策翼
           <a
             class="text-blue-600 dark:text-blue-500"
-            href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=GQo53jmMQWNP2brrIf7tn6gYCiG50_eT&authKey=rHu%2BPM3XUbQZQqqZE%2FxOZ4pey6AuA%2F4INnkFVn267c%2Fpcsb9XeGOQNShB%2BoB3S%2Bt&noverify=0&group_code=741785402"
+            href="https://yan.changxunwangluo.cn/huichuan/cd.php"
             target="_blank"
           >
-            QQ群：741785402
+            策翼
           </a>
           ，免费且基于 MIT 协议，没有任何形式的付费行为！
         </p>
         <p>
-          软件随时被和谐，加入QQ群：741785402  在此承若永久免费+不断升级服务！
+          策翼
         </p>
       </div>
       <p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
